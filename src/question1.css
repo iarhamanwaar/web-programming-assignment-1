@@ -234,29 +234,9 @@ a {
 }
 
 .section-wrapper .skill-percentage:nth-child(1)::before {
-  width: 80%;
+  width: 100%;
 }
 
 .section-wrapper .skill-percentage:nth-child(2)::before {
-  width: 90%;
-}
-
-.section-wrapper .skill-percentage:nth-child(3)::before {
-  width: 50%;
-}
-
-.section-wrapper .skill-percentage:nth-child(4)::before {
-  width: 60%;
-}
-
-.section-wrapper .skill-percentage:nth-child(5)::before {
-  width: 70%;
-}
-
-.section-wrapper .skill-percentage:nth-child(6)::before {
-  width: 70%;
-}
-
-.section-wrapper .skill-percentage:nth-child(7)::before {
-  width: 70%;
+  width: 100%;
 }
